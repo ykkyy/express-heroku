@@ -1,0 +1,17 @@
+{
+  "name": "express-heroku",
+  "version": "1.0.0",
+  "description": "express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ggm",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "request": "^2.81.0"
+  }
+}
